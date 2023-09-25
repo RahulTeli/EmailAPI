@@ -1,0 +1,20 @@
+.field{
+    width: 100%;
+   
+}
+.card{
+    width: 45%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+
+.card button{
+  margin-left: 6px;
+}
+mat-spinner {
+    margin: auto;
+}
